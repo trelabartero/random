@@ -1,0 +1,8 @@
+
+
+
+El presente programa, creado en Javascript, genera un numero aleatorio
+
+menor que 1. El programa enviará un mensaje en el que se indica si el 
+
+numero aleatorio creado es mayor de 0.5 o si es menor o igual de 0.5
